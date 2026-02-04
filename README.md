@@ -4,8 +4,13 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sheepa2002&label=Profile%20views&color=0e75b6&style=flat" alt="sheepa2002" />
 </p>
+<hr style="border:1px solid #d3d3d3;">
+
 
 <h3>🚀 About Me</h3>
+
+<div style="height:1px;background-color:#e5e7eb;margin:10px 0;"></div>
+
 
 <p>
 I’m a <b>Decision Science & Engineering</b> postgraduate who loves solving <b>real-world problems</b> using 
@@ -14,13 +19,18 @@ I enjoy transforming complex systems into <b>efficient, and scalable solutions</
 through <b>analytics, optimization & AI</b>.
 </p>
 
+
 <ul>
   <li>🎓 M.Tech in <b>Decision Science & Engineering</b>, IIT BHU</li>
   <li>📊 Strong foundation in <b>Machine Learning, NLP, Deep Learning & Time Series </b></li>
   <li>⚙️ Deep interest in <b>Data Science, Generative AI, Optimization & Decision Making</b></li>
   <li>🤖 Exploring <b>Generative AI</b> and <b>LangChain</b> for real-world applications</b></li>
   <li>🎯 Focused on building <b>practical, scalable solutions</b> that improve <b>real operations and decision-making</b></li>
-</ul>
+</td>
+</tr>
+</table>
+<hr style="border:1px solid #d3d3d3;">
+
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
