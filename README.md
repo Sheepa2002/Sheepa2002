@@ -100,7 +100,7 @@ through <b>analytics, optimization & AI</b>.
 ---
 <h3>📬 Connect with Me</h3>
 <p>
-🔗 <b>Linkedln:<b/> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">Sheepa Maurya</a><br>
+🔗 <b>Linkedln:<b/> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">in/sheepa-maurya-8869b1237</a><br>
 📮 <b>Email:<b/> <a href="mailto:sheepamaurya.dse24@iitbhu.ac.in">sheepamaurya.dse24@iitbhu.ac.in</a><br><br>
 ✨ Explore my repositories and feel free to connect for collaboration or opportunities.
 </p>
