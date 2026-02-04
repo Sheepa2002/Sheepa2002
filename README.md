@@ -1,3 +1,4 @@
+![logo](https://github.com/Sheepa2002/Sheepa2002/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Sheepa Maurya</h1>
 <h3 align="center">Data Scientist | Data Analyst | Machine Learning | Optimization | Generative AI</h3>
 
